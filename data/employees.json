@@ -1,0 +1,68 @@
+[
+    {
+        "EmployeeID": "EMP1001",
+        "Name": "Rahul",
+        "Department": "IT",
+        "Salary": 45000
+    },
+    {
+        "EmployeeID": "EMP1002",
+        "Name": "Amit",
+        "Department": "HR",
+        "Salary": 50000
+    },
+    {
+        "EmployeeID": "EMP1003",
+        "Name": "Priya",
+        "Department": "IT",
+        "Salary": 60000
+    },
+    {
+        "EmployeeID": "EMP1004",
+        "Name": "Sneha",
+        "Department": "Finance",
+        "Salary": 55000
+    },
+    {
+        "EmployeeID": "EMP1005",
+        "Name": "Rohan",
+        "Department": "IT",
+        "Salary": 48000
+    },
+    {
+        "EmployeeID": "EMP1006",
+        "Name": "Neha",
+        "Department": "HR",
+        "Salary": 52000
+    },
+    {
+        "EmployeeID": "EMP1007",
+        "Name": "Karan",
+        "Department": "Finance",
+        "Salary": 65000
+    },
+    {
+        "EmployeeID": "EMP1008",
+        "Name": "Pooja",
+        "Department": "IT",
+        "Salary": 58000
+    },
+    {
+        "EmployeeID": "EMP1009",
+        "Name": "Ankit",
+        "Department": "Sales",
+        "Salary": 42000
+    },
+    {
+        "EmployeeID": "EMP1010",
+        "Name": "Meera",
+        "Department": "Sales",
+        "Salary": 47000
+    },
+    {
+        "EmployeeID": "EMP1012",
+        "Name": "Arjun",
+        "Department": "IT",
+        "Salary": 65000.0
+    }
+]
